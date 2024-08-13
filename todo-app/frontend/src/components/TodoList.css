@@ -1,0 +1,27 @@
+.todo-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.todo-input-container {
+  margin-bottom: 20px;
+}
+
+.todo-input {
+  margin-right: 10px;
+}
+
+ul {
+  padding-left: 0; /* Usuwa wcięcie punktorów */
+}
+
+.todo-item {
+  margin-bottom: 10px;
+  list-style-type: none; /* Usuwa punktory */
+  text-align: center; /* Wyśrodkowanie tekstu */
+}
+
+.todo-title {
+  margin-right: 10px;
+  cursor: pointer;
+}
